@@ -5,7 +5,7 @@
 
 <br>
 
-This <a href="https://flutter.io/">Flutter</a> based application allows you to catch up with latest and upcoming movies! Feel free to contribute, any suggestions are always welcomed :).
+This <a href="https://flutter.io/">Flutter</a> based application allows you to catch up with latest and upcoming movies! Movies can be sorted according to users preferences Feel free to contribute, any suggestions are always welcome :).
 
 <div>
 <img src="https://github.com/seanFlutter/Movie-Binge/blob/master/assets/images/screenshot_2.png" alt="feed example" width="200">
@@ -16,9 +16,7 @@ This <a href="https://flutter.io/">Flutter</a> based application allows you to c
 
 
 
-# flickd_app
 
-A movie selection app that sorts movies according to users preferences 
 
 ## Getting Started
 
