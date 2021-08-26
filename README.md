@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/63696295/131041118-09df75bc-f7cb-43d2-b33f-0de7139b483a.mp4
-
 ## Movie Binge Flutter Application
 
 <h1 align="center">Movie Binge Application</h1>
