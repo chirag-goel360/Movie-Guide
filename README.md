@@ -1,8 +1,5 @@
 ## Movie Binge Flutter Application
 
-<h1 align="center">Movie Binge Application</h1>
-
-
 <br>
 
 This <a href="https://flutter.io/">Flutter</a> based application allows you to catch up with latest and upcoming movies. Movies can be sorted according to users preferences Feel free to contribute, any suggestions are always welcome :).
