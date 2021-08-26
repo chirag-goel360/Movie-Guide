@@ -14,13 +14,10 @@ This <a href="https://flutter.io/">Flutter</a> based application allows you to c
 </div>
 
 
-
-
-
-
 ## Getting Started
 
-Get your API key from [https://www.themoviedb.org/](https://www.themoviedb.org/) and replace the data in the JSON file under assets/config/. Have fun!
+Get your API key from [developers.themoviedb.com](https://developers.themoviedb.org/4/getting-started/authorization) and replace the data in the JSON file under assets/config/. Have fun!
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -30,4 +27,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view the official documentation
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+Music:
+Dragon Slayer by 魔界Symphony | https://soundcloud.com/makai-symphony
+Music promoted by https://www.chosic.com/
+Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/ 
 
