@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/63696295/131041118-09df75bc-f7cb-43d2-b33f-0de7139b483a.mp4
+
 ## Movie Binge Flutter Application
 
 <h1 align="center">Movie Binge Application</h1>
@@ -28,6 +32,8 @@ For help getting started with Flutter, view the official documentation
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+
+https://user-images.githubusercontent.com/63696295/131041187-a104b7f4-04bc-48f6-9030-7ca810b664fd.mp4
 
 
 Music:
