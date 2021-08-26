@@ -1,4 +1,4 @@
-## Movie Binge Flutter Application
+## Movie Guide Flutter Application
 
 <br>
 
